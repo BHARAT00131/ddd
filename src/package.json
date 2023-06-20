@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@progress/kendo-licensing": "latest",
+    "@progress/kendo-react-animation": "latest",
+    "@progress/kendo-react-buttons": "latest",
+    "@progress/kendo-react-intl": "latest",
+    "@progress/kendo-react-layout": "latest",
+    "@progress/kendo-react-progressbars": "latest",
+    "@progress/kendo-svg-icons": "latest",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^4.2.2"
+  },
+  "description": "Example usage of KendoReact\nSee [https://www.telerik.com/kendo-react-ui/components/layout/drawer/routing/](https://www.telerik.com/kendo-react-ui/components/layout/drawer/routing/)",
+  "tags": "React,KendoReact"
+}
